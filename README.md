@@ -1,2 +1,1 @@
-# free-fire
-FREE FIRE QUIZ
+http://127.0.0.1:5500/quiz-game.html
